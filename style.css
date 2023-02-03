@@ -1,0 +1,131 @@
+body {
+    background-image: url(https://phonoteka.org/uploads/posts/2022-01/1643147648_1-phonoteka-org-p-chernii-fon-dlya-saita-1.jpg);
+}
+
+
+
+
+a {
+    /*display: flex;
+    text-align: center;
+    align-items: center;
+    border-style: solid;
+    width: 200px;
+    height:10px;*/
+  
+
+   
+}
+
+
+.first {
+    border-style: solid;
+    border-color:rgb(255, 255, 255);
+    justify-content: center;
+    text-align: center;
+    width: 800px;
+    height: 200px;
+    align-items: center;
+    margin:50px auto;
+}
+
+.a1>p{
+    width: 38px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    /* identical to box height, or 20px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+    position: auto;
+
+    /*text-align: center;*/
+    
+}
+
+.a2>p{
+    width: 53px;
+    height: 20px;
+    left: calc(50% - 53px/2 - 148.5px);
+    top: 38px;
+    
+    /* body-14-reg */
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    /* identical to box height, or 20px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+    
+    opacity: 0.8;
+
+    /*text-align: center;*/
+}
+
+.a3>p{
+    width: 52px;
+    height: 20px;
+    left: calc(50% - 52px/2 + 148px);
+    top: 38px;
+    
+    /* body-14-reg */
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    /* identical to box height, or 20px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+    
+    opacity: 0.8;
+
+    /*text-align: center;*/
+    /*margin-left: 600px;*/
+}
+
+.a4>p{
+    width: 26px;
+    height: 20px;
+    left: calc(50% - 26px/2 + 272px);
+    top: 38px;
+    
+    /* body-14-reg */
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    /* identical to box height, or 20px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+    
+    opacity: 0.8;
+     /*my dopolnitelni*/
+    /*text-align: center;*/
+    /*margin-left: 600px;*/
+}
+
